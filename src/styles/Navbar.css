@@ -38,6 +38,10 @@
   margin: 20px;
 }
 
+.navbar a:hover{
+  color:red
+}
+
 .navbar .rightSide button {
   background-color: transparent;
   border: none;
