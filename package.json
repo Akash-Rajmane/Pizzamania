@@ -1,6 +1,5 @@
 {
-  "name": "website",
-  "homepage": "https://akash-rajmane.github.io/website",
+  "name": "pizzamania",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
